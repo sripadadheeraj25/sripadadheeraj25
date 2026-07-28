@@ -1,22 +1,61 @@
-<h1 align="center">Hi 👋, I'm SRIPADA DHEERAJ</h1>
-<h3 align="center">Python Full Stack Developer focused on building real-world web applications and scalable backend systems
+<h1 align="center">Hi 👋, I'm Sripada Dheeraj</h1>
+
+<h3 align="center">
+Python Full Stack Developer passionate about building practical web applications with Python, Django, and AI-powered solutions.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sripadadheeraj25&label=Profile%20views&color=0e75b6&style=flat" alt="sripadadheeraj25" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sripadadheeraj25" alt="sripadadheeraj25" /></a> </p>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Employee Management System**
+- 🔭 Currently working on **AI Resume Analyzer**
+- 💼 Built real-world Django applications including:
+  - Expense Tracker
+  - Job Board Portal
+- 🌱 Currently improving my skills in **Python, Django, AI Integration, and MySQL**
+- 💡 Interested in Backend Development, Full Stack Development, and Artificial Intelligence
+- 📫 Reach me at **sripadadheeraj2025@gmail.com**
 
-- 🌱 I’m currently learning **Fast API, Django**
+---
 
-- 📫 How to reach me **sripadadheeraj2025@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sripada dheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripada dheeraj" height="30" width="40" /></a>
-</p>
+### Languages
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
+- Django
 
+### Database
+- MySQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Render
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker
+A Django-based web application that helps users manage and track their daily expenses with authentication and a clean dashboard.
+
+### 💼 Job Board Portal
+A Django application where recruiters can post jobs and candidates can apply, save jobs, upload resumes, and track applications.
+
+### 🤖 AI Resume Analyzer *(In Progress)*
+An AI-powered web application that analyses resumes, extracts key information, evaluates resumes against job descriptions, and provides insights to improve candidate profiles.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Email: sripadadheeraj2025@gmail.com
