@@ -33,6 +33,7 @@ Python Full Stack Developer passionate about building practical web applications
 ### Database
 - MySQL
 - SQLite
+- PostgreSQL
 
 ### Tools
 - Git
