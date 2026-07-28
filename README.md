@@ -58,5 +58,5 @@ An AI-powered web application that analyses resumes, extracts key information, e
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- LinkedIn: https://www.linkedin.com/in/sripadadheeraj/
 - Email: sripadadheeraj2025@gmail.com
